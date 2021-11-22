@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "141f0670e5643f675909",
-    "url": "/urdu_addition_wordProblem/static/css/main.90d44695.chunk.css"
+    "revision": "1ba0f7f098fdee97dab2",
+    "url": "/urdu_addition_wordProblem/static/css/main.bc2fdafc.chunk.css"
   },
   {
-    "revision": "141f0670e5643f675909",
-    "url": "/urdu_addition_wordProblem/static/js/main.98be9f2a.chunk.js"
+    "revision": "1ba0f7f098fdee97dab2",
+    "url": "/urdu_addition_wordProblem/static/js/main.02a5db98.chunk.js"
   },
   {
     "revision": "007c0167d203b46ec5df",
     "url": "/urdu_addition_wordProblem/static/js/runtime~main.6e2ee068.js"
   },
   {
-    "revision": "49f3c2ad33750a25c444",
-    "url": "/urdu_addition_wordProblem/static/js/2.2e35017f.chunk.js"
+    "revision": "6832e509d358927d3d0d",
+    "url": "/urdu_addition_wordProblem/static/js/2.ed339d49.chunk.js"
   },
   {
     "revision": "f0aa0efad6746287de4c",
@@ -32,16 +32,16 @@ self.__precacheManifest = [
     "url": "/urdu_addition_wordProblem/static/media/grocery.821cde13.gif"
   },
   {
-    "revision": "424d18986561c7039221eb97a66aef6b",
-    "url": "/urdu_addition_wordProblem/static/media/tostartpressbutton.424d1898.mp3"
+    "revision": "1e695820a1572347f6a0a76f53280775",
+    "url": "/urdu_addition_wordProblem/static/media/tostartpressbutton.1e695820.mp3"
   },
   {
-    "revision": "8efff185f64e4259ae68a4074dbfb0e6",
-    "url": "/urdu_addition_wordProblem/static/media/321go.8efff185.mp3"
+    "revision": "b8fca396c389eea881872cc7f0e7855b",
+    "url": "/urdu_addition_wordProblem/static/media/321go.b8fca396.mp3"
   },
   {
-    "revision": "09b0b7bb4e8aad40481825ec9d91d223",
-    "url": "/urdu_addition_wordProblem/static/media/rightAnswer.09b0b7bb.mp3"
+    "revision": "88e8a851b1954501951ae45cf46c1e2f",
+    "url": "/urdu_addition_wordProblem/static/media/rightAnswer.88e8a851.mp3"
   },
   {
     "revision": "ddcbc59b2917e3dbeb737fca1e3ede4e",
@@ -180,7 +180,7 @@ self.__precacheManifest = [
     "url": "/urdu_addition_wordProblem/static/media/mute.f02ac89a.png"
   },
   {
-    "revision": "69b52144e5b63b89897419b2b1a15787",
+    "revision": "21b49209f03ede111bd0aa67b6a3f602",
     "url": "/urdu_addition_wordProblem/index.html"
   }
 ];
