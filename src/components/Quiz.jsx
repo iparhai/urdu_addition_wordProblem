@@ -101,7 +101,7 @@ class Quiz extends React.Component {
         this.setState({
           modalShowing: false,
           answer: 0,
-          totalProblems : this.state.totalProblems
+          totalProblems : this.state.totalProblems + 1
         });
       if (this.props.lifes > 0) (this.answerInput && this.answerInput.focus());
     }, 2500);
@@ -150,7 +150,8 @@ class Quiz extends React.Component {
         symbol: newProblemSet.symbol,
         problemTemplates: [
           {
-            pt: firstName + " eats " + newProblemSet.firstNumber + " " + objectName + " while " + secondName + " Eats  " + newProblemSet.secondNumber + " " + objectName + ". How many " + objectName + " did " + firstName + " and " + secondName + " eat altogether?",
+            // pt: firstName + " eats " + newProblemSet.firstNumber + " " + objectName + " while " + secondName + " Eats  " + newProblemSet.secondNumber + " " + objectName + ". How many " + objectName + " did " + firstName + " and " + secondName + " eat altogether?",
+            pt : firstName + " نے " + newProblemSet.firstNumber +"  "+objectName+" کھائے جبکہ "+ secondName + " نے " + newProblemSet.secondNumber +" "+ objectName + " کھائے " +"تو" +firstName + " اور " + secondName + " نے ایک ساتھ کتنے  "+objectName+" کھائے  ",
             ptImage: img
           },
         ]

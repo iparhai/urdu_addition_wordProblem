@@ -16,24 +16,24 @@ import cherry from '../assets/cherry.png'
 import peach from '../assets/peach.png'
 import dragon_fruit from '../assets/dragon_fruit.png'
 
-const Names1 = ['Ahmed', 'Ali', 'Arham', 'Aryan', 'Awan', 'Awj', 'Harnail', 'Muhallil', 'Rohaan', 'Souma', 'Azeeb', 'Etizaaz', 'Ghazanfer', 'zawwar ', 'Areeb ']
-const Names2 = ['Shahrukh', 'Ismail', 'Taimoor ', 'Ashad', 'Faizan', 'Shariat', 'Aaniya', 'Minahil', 'Rauf', 'Fawwad', 'Shahida', 'Rabia', 'Areesha', 'Ayesha', 'Aneeq']
+const Names1 = ['ارحام', 'آیان', 'آیان', 'آریان', 'زیان', 'انس', 'ریحان', 'حذیفہ', 'زین', 'ریعان', 'ازلان', 'عمران', 'شایان', 'علی ', 'حمزہ ']
+const Names2 = ['احد', 'احمد', 'فیصل ', 'ایاز', 'عفان', 'ابرار', 'حسن', 'ارون', 'امان', 'انس', 'ریعان', 'ارسلان', 'شعیب', 'طلحہ', 'حسنين']
 const objectNameAndImage = [
-    { objName: "apple", img: apple },
-    { objName: "banana", img: banana },
-    { objName: "mango", img: mango },
-    { objName: "orange", img: orange },
-    { objName: "pear", img: pear },
-    { objName: "pineapple", img: pineapple },
-    { objName: "plum", img: plum },
-    { objName: "pomegranate", img: pomegranate },
-    { objName: "strawberry", img: strawberry },
-    { objName: "watermelon", img: watermelon },
-    { objName: "lemon", img: lemon },
-    { objName: "carrot", img: carrot },
-    { objName: "cherry", img: cherry },
-    { objName: "peach", img: peach },
-    { objName: "dragon_fruit", img: dragon_fruit },
+    { objName: " علی", img: apple },
+    { objName: " علی", img: banana },
+    { objName: " علی", img: mango },
+    { objName: " علی", img: orange },
+    { objName: " علی", img: pear },
+    { objName: " علی", img: pineapple },
+    { objName: " علی", img: plum },
+    { objName: " علی", img: pomegranate },
+    { objName: " علی", img: strawberry },
+    { objName: " علی", img: watermelon },
+    { objName: " علی", img: lemon },
+    { objName: " علی", img: carrot },
+    { objName: " علی", img: cherry },
+    { objName: " علی", img: peach },
+    { objName: " علی", img: dragon_fruit },
 ]
 
 
