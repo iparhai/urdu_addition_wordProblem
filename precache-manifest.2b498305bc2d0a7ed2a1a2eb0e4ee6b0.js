@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1ba0f7f098fdee97dab2",
+    "revision": "b5240412d2011fc085e9",
     "url": "/urdu_addition_wordProblem/static/css/main.bc2fdafc.chunk.css"
   },
   {
-    "revision": "1ba0f7f098fdee97dab2",
-    "url": "/urdu_addition_wordProblem/static/js/main.02a5db98.chunk.js"
+    "revision": "b5240412d2011fc085e9",
+    "url": "/urdu_addition_wordProblem/static/js/main.3f5934a9.chunk.js"
   },
   {
     "revision": "007c0167d203b46ec5df",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/urdu_addition_wordProblem/static/media/rightAnswer.88e8a851.mp3"
   },
   {
-    "revision": "ddcbc59b2917e3dbeb737fca1e3ede4e",
-    "url": "/urdu_addition_wordProblem/static/media/wrongAnswer.ddcbc59b.mp3"
+    "revision": "48b32efb6257ce0ee9f40b87b5894871",
+    "url": "/urdu_addition_wordProblem/static/media/wrongAnswer.48b32efb.mp3"
   },
   {
     "revision": "40d8e09c1bc1e01df2f2d0350718c089",
@@ -180,7 +180,7 @@ self.__precacheManifest = [
     "url": "/urdu_addition_wordProblem/static/media/mute.f02ac89a.png"
   },
   {
-    "revision": "21b49209f03ede111bd0aa67b6a3f602",
+    "revision": "e51f03117baa4707d0316812ce909fc4",
     "url": "/urdu_addition_wordProblem/index.html"
   }
 ];

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/urdu_addition_wordProblem/precache-manifest.d5ebf8ee208ad74d60835c270c2ff7aa.js"
+  "/urdu_addition_wordProblem/precache-manifest.2b498305bc2d0a7ed2a1a2eb0e4ee6b0.js"
 );
 
 workbox.clientsClaim();

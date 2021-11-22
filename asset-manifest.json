@@ -1,7 +1,7 @@
 {
   "main.css": "/urdu_addition_wordProblem/static/css/main.bc2fdafc.chunk.css",
-  "main.js": "/urdu_addition_wordProblem/static/js/main.02a5db98.chunk.js",
-  "main.js.map": "/urdu_addition_wordProblem/static/js/main.02a5db98.chunk.js.map",
+  "main.js": "/urdu_addition_wordProblem/static/js/main.3f5934a9.chunk.js",
+  "main.js.map": "/urdu_addition_wordProblem/static/js/main.3f5934a9.chunk.js.map",
   "runtime~main.js": "/urdu_addition_wordProblem/static/js/runtime~main.6e2ee068.js",
   "runtime~main.js.map": "/urdu_addition_wordProblem/static/js/runtime~main.6e2ee068.js.map",
   "static/js/2.ed339d49.chunk.js": "/urdu_addition_wordProblem/static/js/2.ed339d49.chunk.js",
@@ -9,7 +9,7 @@
   "static/js/3.d25448f0.chunk.js": "/urdu_addition_wordProblem/static/js/3.d25448f0.chunk.js",
   "static/js/3.d25448f0.chunk.js.map": "/urdu_addition_wordProblem/static/js/3.d25448f0.chunk.js.map",
   "index.html": "/urdu_addition_wordProblem/index.html",
-  "precache-manifest.d5ebf8ee208ad74d60835c270c2ff7aa.js": "/urdu_addition_wordProblem/precache-manifest.d5ebf8ee208ad74d60835c270c2ff7aa.js",
+  "precache-manifest.2b498305bc2d0a7ed2a1a2eb0e4ee6b0.js": "/urdu_addition_wordProblem/precache-manifest.2b498305bc2d0a7ed2a1a2eb0e4ee6b0.js",
   "service-worker.js": "/urdu_addition_wordProblem/service-worker.js",
   "static/css/main.bc2fdafc.chunk.css.map": "/urdu_addition_wordProblem/static/css/main.bc2fdafc.chunk.css.map",
   "static/media/321go.mp3": "/urdu_addition_wordProblem/static/media/321go.b8fca396.mp3",
@@ -51,5 +51,5 @@
   "static/media/tostartpressbutton.mp3": "/urdu_addition_wordProblem/static/media/tostartpressbutton.1e695820.mp3",
   "static/media/typing.mp3": "/urdu_addition_wordProblem/static/media/typing.a0cc197d.mp3",
   "static/media/watermelon.png": "/urdu_addition_wordProblem/static/media/watermelon.d1d59a88.png",
-  "static/media/wrongAnswer.mp3": "/urdu_addition_wordProblem/static/media/wrongAnswer.ddcbc59b.mp3"
+  "static/media/wrongAnswer.mp3": "/urdu_addition_wordProblem/static/media/wrongAnswer.48b32efb.mp3"
 }
